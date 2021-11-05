@@ -1,0 +1,72 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T23:41:25-04:00
+
+====== Home ======
+Created Wednesday 25 August 2021
+
+References:
+[[https://www.yamaha.com/en/musical_instrument_guide/saxophone/structure/|[ref 1]]]	https://www.yamaha.com/en/musical_instrument_guide/saxophone/structure/
+[[https://en.wikipedia.org/wiki/Saxophone|[ref 2]]]	https://en.wikipedia.org/wiki/Saxophone
+[[https://www.musicarts.com/saxophones|[ref 3]]]	https://www.musicarts.com/saxophones
+[[https://jazzfuel.com/best-saxophone-brands/|[ref 4]]]	https://jazzfuel.com/best-saxophone-brands/
+
+
+
+Who invented the saxophone?
+[[+Adolphe_Sax]]
+
+What is the saxophone made of?
+[[+brass]]
+
+What instruments are members of the Saxophone Family, from highest pitched to lowest pitched?
+1. [[+soprillo_saxophone]]
+2. [[+sopranino_saxophone]]
+3. [[+soprano_saxophone]]
+4. [[+alto_saxophone]]
+5. [[+tenor_saxophone]]
+6. [[+baritone_saxophone]]
+7. [[+bass_saxophone]]
+8. [[+contrabass_saxophone]]
+9. [[+subcontrabass_saxophone]]
+
+How many members are there of the Saxophone Family?
+9
+
+Describe some saxophone-related songs.
+[[+songs]]
+
+When was the saxophone invented?
+1841	[[https://www.musicarts.com/saxophones|[ref 3]]]
+
+What are some saxophone brands?	[[https://jazzfuel.com/best-saxophone-brands/|[ref 4]]]
+[[+Selmer_Paris]]
+[[+Yamaha]]
+[[+Elkhart]]
+[[+P_Mauriat]]
+[[+Keilwerth]]
+[[+Conn_Selmer]]
+[[+Cannonball_Saxophones]]
+[[+Borgani]]
+[[+Trevor_James]]
+
+When did Selmer start making woodwind instruments?
+1885	[[https://jazzfuel.com/best-saxophone-brands/|[ref 4]]]
+
+When did Selmer make its first saxophone?
+1922	[[https://jazzfuel.com/best-saxophone-brands/|[ref 4]]]
+
+What are some famous Selmer saxophones?	[[https://jazzfuel.com/best-saxophone-brands/|[ref 4]]]
+[[+Cigar_Cutter]]
+[[+Blalanced_Action]]
+[[+Super_Balanced_Action]]
+[[+Mark_VI]]
+[[+Reference_36]]
+[[+Reference_54]]
+[[+Super_Action_80]]
+
+
+
+
+
+

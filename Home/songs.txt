@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T22:31:41-04:00
+
+====== songs ======
+Created Monday 20 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/The_Chicken_(music)|[ref 1]]]	https://en.wikipedia.org/wiki/The_Chicken_(music)
+
+
+Who wrote the song "The Chicken"?	[[https://en.wikipedia.org/wiki/The_Chicken_(music)|[ref 1]]]
+[[+Pee_Wee_Ellis]]	
+

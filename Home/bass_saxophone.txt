@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-31T13:59:36-04:00
+
+====== bass saxophone ======
+Created Tuesday 31 August 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Bass_saxophone|[ref 1]]]	https://en.wikipedia.org/wiki/Bass_saxophone
+
+Describe the bass saxophone.
+THe bass saxophone is one of the largest members of the +saxophone_family - larger than the more commonly encountered [[Home:baritone saxophone|baritone saxophone]].	[[https://en.wikipedia.org/wiki/Bass_saxophone|[ref 1]]]
+
+Describe the key of the bass saxophone.
+The modern bass saxophone is a +transposing_insrument pitched in +Bb , and octave below the [[Home:tenor saxophone|tenor saxophone]].	[[https://en.wikipedia.org/wiki/Bass_saxophone|[ref 1]]]
+
+When and where is the bass saxophone used?
+The bass saxophone is not a commonly used instrument, but it is heard in some 1920s jazz recordings; in +free_jazz ; and occasionally in +concert_bands .	[[https://en.wikipedia.org/wiki/Bass_saxophone|[ref 1]]]
+

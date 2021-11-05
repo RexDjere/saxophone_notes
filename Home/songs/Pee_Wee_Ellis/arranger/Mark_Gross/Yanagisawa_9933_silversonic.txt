@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T14:38:25-04:00
+
+====== Yanagisawa 9933 silversonic ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://www.yanagisawasaxophones.co.uk/products/archived-products/product/166-alto-sax-solid-silver-bell-neck-brass-body-a9933|[ref 1]]]	https://www.yanagisawasaxophones.co.uk/products/archived-products/product/166-alto-sax-solid-silver-bell-neck-brass-body-a9933
+
+What are the characteristics of the Yanagisawa A9933 alto saxophone?	[[https://www.yanagisawasaxophones.co.uk/products/archived-products/product/166-alto-sax-solid-silver-bell-neck-brass-body-a9933|[ref 1]]]
+* Key: Eb
+* Range: low Bb to high F#
+* Body: [[+Brass]]
+* Bow: [[+Brass]]
+* Bell: [[+Sterling_Silver]]
+* Keys: [[+Brass]]
+* Finish: [[+Lacquer]]
+* Neck: [[+Sterling_Silver]]
+* Neck Type: [[+Detachable_Neck]]
+* Case: [[+Leatherette]] Covered, [[+Woodshell]]
+

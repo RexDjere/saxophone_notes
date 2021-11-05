@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T02:11:32-04:00
+
+====== Bradenton Florida ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Bradenton,_Florida|[ref 1]]]	https://en.wikipedia.org/wiki/Bradenton,_Florida
+
+In what county is Bradenton, Folrida located?
+Manatee County
+
+What is the population of Bradenton?
+55,698 (2020)
+

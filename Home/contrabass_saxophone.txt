@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T03:04:24-04:00
+
+====== contrabass saxophone ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Contrabass_saxophone|[ref 1]]]	https://en.wikipedia.org/wiki/Contrabass_saxophone
+
+What is the contrabass saxophone?	[[https://en.wikipedia.org/wiki/Contrabass_saxophone|[ref 1]]]
+The contrabass saxophone is the second-lowest pitched extant member of the saxophone family proper.
+It is extremely large (twice the length of tubing of the baritone saxophone, with a bore twice as wide, standing 1.9 meters tall, or 6 feet 4 inches) 
+and heavy (approximately 20 kilograms, or 45 punds, and is pitched in the key of Eb, one octave below the baritone saxophone.
+

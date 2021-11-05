@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-07T00:06:20-04:00
+
+====== copper ======
+Created Thursday 07 October 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Copper|[ref 1]]]	https://en.wikipedia.org/wiki/Copper
+[[https://www.youtube.com/watch?v=3nneL6zDEMA|[ref 2]]]	https://www.youtube.com/watch?v=3nneL6zDEMA
+
+What is copper?
+Copper is a chemical element with the symbok Cu (from Latin: cuprum) and atomic number 29.
+
+What are the properties of copper?	[[https://en.wikipedia.org/wiki/Copper|[ref 1]]]
+* soft
+* malleable
+* [[+ductile]]
+* high thermal conductivity
+* high electrical conductivity
+
+
+What is the historical significance of copper?
+It is one of the first metals that humans worked.	[[https://www.youtube.com/watch?v=3nneL6zDEMA|[ref 2]]]

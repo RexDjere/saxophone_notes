@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T23:43:34-04:00
+
+====== Adolphe Sax ======
+Created Wednesday 25 August 2021
+
+Source documents:
+https://www.yamaha.com/en/musical_instrument_guide/saxophone/structure/
+https://en.wikipedia.org/wiki/Adolphe_Sax
+
+What were the years of Adolphe Sax's life?
+1814 - 1894
+
+Where was Adolphe Sax born?
+Belgium
+
+When did Adolphe Sax conceive the idea of the saxophone?
+in the 1840s
+
+When did Adolphe Sax patent the saxophone?
+In 1846
+
+Where did Adolphe Sax patent the saxophone?
+In Paris
+
+On what day was Adolphe Sax born?
+Sunday, November 6, 1814
+
+On what day did Adolphe Sax die?
+Wednesday, February 7, 1894
+
+What other instruments did Adolphe Sax invent?
+[[+saxotromba]]
+[[+saxhorn]]
+[[+saxtube]]
+
+What other instruments did Adolphe Sax play besides his own inventions?
+flute and clarinet
+
+Where was Adolphe Sax born?
+In Dinant, which is now Belgium
+

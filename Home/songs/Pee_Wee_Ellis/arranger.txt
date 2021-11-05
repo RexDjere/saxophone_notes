@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T01:58:12-04:00
+
+====== arranger ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://www.dansr.com/vandoren/resources/5-tips-for-writing-and-arranging-for-alto-saxophone-and-strings|{ref 1]]]	https://www.dansr.com/vandoren/resources/5-tips-for-writing-and-arranging-for-alto-saxophone-and-strings
+
+What are the most important activities for becoming good at arranging?
+Listening to a lot of music.
+Reading a lot about how music is arranged.
+Practicing arranging.
+
+Who is saxophonist Mark Gross?
+[[+Mark_Gross]]

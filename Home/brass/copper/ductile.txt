@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-12T09:24:03-04:00
+
+====== ductile ======
+Created Tuesday 12 October 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Ductility|[ref 1]]]	https://en.wikipedia.org/wiki/Ductility
+
+What is the definition of ductility?
+Ductility describes a metal's ability to be drawn into a wire. [[https://en.wikipedia.org/wiki/Ductility|[ref 1]]]

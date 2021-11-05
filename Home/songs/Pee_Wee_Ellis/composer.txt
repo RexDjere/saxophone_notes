@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T02:14:32-04:00
+
+====== composer ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://www.masterclass.com/articles/songwriting-tips-techniques-for-writing-memorable-songs|[ref 1]]]	https://www.masterclass.com/articles/songwriting-tips-techniques-for-writing-memorable-songs
+
+Tips for good composition: [[https://www.masterclass.com/articles/songwriting-tips-techniques-for-writing-memorable-songs|[ref 1]]]
+* catchy melodies
+* use mutiple chord types
+* memorabble rhythm
+* build on riffs
+* write songs that can be played live
+* step away from your instrument to write
+* ambitous song structure
+* combine structure and sponteneity
+* use rhythm as a tool
+* break through writer's block
+
+

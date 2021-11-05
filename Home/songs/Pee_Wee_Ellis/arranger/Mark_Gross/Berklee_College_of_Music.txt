@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-06T01:15:33-04:00
+
+====== Berklee College of Music ======
+Created Wednesday 06 October 2021
+
+References:
+[[https://online.berklee.edu/store/product?product_id=11409&category_id=520|[ref 1]]]	https://online.berklee.edu/store/product?product_id=11409&category_id=520
+
+What are the Berklee Practice Method Topics:
+[[+learning_by_ear]]
+[[+theory_and_technique]]
+[[+rhythmic_interpretation]]
+[[+improvisation]]
+[[+comping]]
+[[+reading]]
+[[+song_form]]
+[[+interpreting_lead_sheets]]
+
